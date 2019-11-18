@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='MemoryLeakTest01'
+rootProject.name='MemoryLeakTest02'
